@@ -1,6 +1,6 @@
-## Coding - Intermediate
+## Coding - Beginner
 
-Welcome to Coding - Intermediate courses website!
+Welcome to Coding - Beginner courses website!
 
 All the materials, quizes, and informations related to the course will be backup here.
 
