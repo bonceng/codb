@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Coding - Intermediate
 
-You can use the [editor on GitHub](https://github.com/bonceng/codb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Coding - Intermediate courses website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All the materials, quizes, and informations related to the course will be backup here.
 
-### Markdown
+### Week 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [(Slide) Course Overview](https://docs.google.com/presentation/d/1_2CBNXbTxSfNE-ZyvvsyPmcJzBh-QnyZ0sam4QWDGss)
+- [(Slide) Input Output](https://docs.google.com/presentation/d/1znGY50H2Ankue-beklZYFSE6qQrveVfEOyW72e3WqtA)
+- [(Quiz) Assessment Test](#TODO)
+- [Tutorial Instalasi Python 3 - Windows dan Mac](pdf/Tutorial_Instalasi_Python3_WinMac.pdf)
+- [Tutorial Instalasi Visual Studio Code - Windows dan Mac](pdf/Tutorial_Instalasi_VSCode_WinMac.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bonceng/codb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### References
+- [Python Crash Course – 2nd Edition by Eric Matthes](https://www.google.co.id/books/edition/Python_Crash_Course_2nd_Edition/w1v6DwAAQBAJ)
+- [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf)
