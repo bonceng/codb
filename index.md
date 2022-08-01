@@ -16,7 +16,7 @@ For `Coding - Intermediate` course website: [click here!](https://bonceng.github
 - [Tutorial Instalasi Visual Studio Code - Windows dan Mac](pdf/Tutorial_Instalasi_VSCode_WinMac.pdf)
 
 ### Week 2
-- [(Slide) Basic Programming and Variables](#TBA)
+- [(Slide) Basic Programming and Variables](https://docs.google.com/presentation/d/1pzcszAYvI0DH9Xm4BC5dIqKFnFiB99t9cY_GAADVyLs/)
 
 ### References
 - [Python Crash Course – 2nd Edition by Eric Matthes](https://www.google.co.id/books/edition/Python_Crash_Course_2nd_Edition/w1v6DwAAQBAJ)
