@@ -1,6 +1,6 @@
-## Coding - Basic
+## Coding - Beginner
 
-Welcome to Coding - Basic courses website!
+Welcome to Coding - Beginner courses website!
 
 All the materials, quizes, and informations related to the course will be backup here.
 
@@ -28,6 +28,9 @@ For `Coding - Intermediate` course website: [click here!](https://bonceng.github
 
 ### Week 3
 - [(Slide) Conditional](https://docs.google.com/presentation/d/1hUosYl0eZRI8rxpvmY9z11Ld3BVTamf5XTCbuSB7ynQ)
+
+### Week 4
+- [(Slide) Looping](https://docs.google.com/presentation/d/10ackX2uLrrbQokAFOSjUKRI2QwwZGGgo5tRzjdlEI5w)
 
 ### References
 - [Python Crash Course – 2nd Edition by Eric Matthes](https://www.google.co.id/books/edition/Python_Crash_Course_2nd_Edition/w1v6DwAAQBAJ)
